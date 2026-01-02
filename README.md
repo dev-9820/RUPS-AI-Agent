@@ -1,6 +1,8 @@
 # Rups AI Support Agent
 A robust, full-stack AI customer support widget built for the Spur Founding Engineer assignment. This application simulates a real-time support agent for an e-commerce store ("Rups"), capable of answering questions about shipping, returns, and policies using the Google Gemini 2.5 Flash model.
 
+## [Live Application](https://rups-ai-agent.vercel.app/)
+
 ## 🚀 Quick Start (Run Locally)
 This project uses a monorepo structure. You will need Node.js (v18+) and a Google Gemini API Key.
 
